@@ -1,0 +1,4 @@
+#Mon Jul 26 12:48:28 IST 2021
+base.0=/Users/vedantsaraf/Desktop/LCO/Flutter/11/mydb_todo/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
